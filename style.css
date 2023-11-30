@@ -41,7 +41,7 @@ nav > a{
     border: 2px solid lightblue;
     color: white;
 }
-/* Tablet layout  om breddenär mellan 641 och 1007 */
+/* Tablet layout  om bredden är mellan 641 och 1007 */
 @media screen and (min-width: 641px)and (max-width: 1007px) {
     main{
         display: grid;
